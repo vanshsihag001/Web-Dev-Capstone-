@@ -6,4 +6,4 @@ The website is fully responsive and with a minimal UI and the wesbite is built u
 
 I ensured proper spacing , typography and basic hover effect.
 
-LOOM video link:
+LOOM video link:https://www.loom.com/share/6aa0b918667a4128922aeb8b2513525a
